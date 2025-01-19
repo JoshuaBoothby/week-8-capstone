@@ -3,38 +3,38 @@
 // bootstrap card elements stored in an array of strings to act as portfolio projects
 const portCards = [
   `
-    <div class="card" style="width: 18rem;">
+    <div class="card m-1 p-1 " style="width: 18rem;">
       <div class="card-body">
         <h2 class="card-title h5">HTML Lab</h2>
         <p class="card-text">Project showing off some HTML for class.</p>
-        <a href="https://github.com/JoshuaBoothby/html-lab-2.git" class="card-link" target="_blank">Github link</a>
+        <a href="https://github.com/JoshuaBoothby/html-lab-2.git" class="card-link text-decoration-none" target="_blank">Github link</a>
       </div>
     </div>
     `,
   `
-    <div class="card" style="width: 18rem;">
+    <div class="card m-1 p-1" style="width: 18rem;">
       <div class="card-body">
         <h2 class="card-title h5">Bootstrap Lab</h2>
         <p class="card-text">Project showing off some Bootstrap for class.</p>
-        <a href="https://github.com/JoshuaBoothby/bootstrap-lab-1.git" class="card-link" target="_blank">Github link</a>
+        <a href="https://github.com/JoshuaBoothby/bootstrap-lab-1.git" class="card-link text-decoration-none" target="_blank">Github link</a>
       </div>
     </div>
     `,
   `
-    <div class="card" style="width: 18rem;">
+    <div class="card m-1 p-1" style="width: 18rem;">
       <div class="card-body">
         <h2 class="card-title h5">JS Lab 1</h2>
         <p class="card-text">Project showing off some javascript skills.</p>
-        <a href="https://github.com/JoshuaBoothby/js-week-6-lab-2.git" class="card-link" target="_blank">Github link</a>
+        <a href="https://github.com/JoshuaBoothby/js-week-6-lab-2.git" class="card-link text-decoration-none" target="_blank">Github link</a>
       </div>
     </div>
     `,
   `
-    <div class="card" style="width: 18rem;">
+    <div class="card m-1 p-1" style="width: 18rem;">
       <div class="card-body">
         <h2 class="card-title h5">JS Lab 2</h2>
         <p class="card-text">Project showing off more javascript skills.</p>
-        <a href="https://github.com/JoshuaBoothby/js-week-7-lab-2.git" class="card-link" target="_blank">Github link</a>
+        <a href="https://github.com/JoshuaBoothby/js-week-7-lab-2.git" class="card-link text-decoration-none" target="_blank">Github link</a>
       </div>
     </div>
     `,
