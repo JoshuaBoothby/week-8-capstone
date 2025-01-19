@@ -61,7 +61,9 @@ const capstoneReq = [
     </ol>`,
 ];
 
+// Selecting the capstone project requirements element from the DOM
 const capReq = document.getElementById("capReq");
+// Selecting the capstone project requirements button from the DOM
 const capReqbtn = document.getElementById("capReqbtn");
 // function to render the capstone project requirements to the DOM
 function recRender() {
